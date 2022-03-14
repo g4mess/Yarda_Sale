@@ -1,0 +1,4 @@
+#Eliminacion de archivos visuales git
+*.png
+*.jpg
+*.svg
